@@ -17,13 +17,10 @@ Welcome to my Codebasics "Your First 30 Days as a Data Analyst" Challenge projec
 
 ---
 
-*Project Title:* Your First 30 Days as a Data Analyst -- 30 Day Challenge
-
-*Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)
-
-*Tools Used:* Canva, Excel, Power BI
-
-*Focus Areas:* Stakeholder Management, Business Thinking
+- *Project Title:* Your First 30 Days as a Data Analyst -- 30 Day Challenge
+- *Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)
+- *Tools Used:* Canva, Excel, Power BI
+- *Focus Areas:* Stakeholder Management, Business Thinking
 
 ---
 

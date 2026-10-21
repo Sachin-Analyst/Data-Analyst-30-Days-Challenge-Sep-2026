@@ -34,5 +34,5 @@ A day-by-day index of this 30-day challenge. Each row names the business request
 | 26 | Being publicly challenged on a number | A regional manager disputes a negative store-contribution figure in a meeting; agreeing with the true part first, then flagging numbers privately before future meetings. | [Day 26](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/Day%2021%20-%2030/Day%2026-%202026.pdf) |
 | 27 | Four requests, five days | Four stakeholders each want work that adds up to more days than are available; taking the conflict to the manager to prioritize instead of deciding alone. | [Day 27](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/Day%2021%20-%2030/Day%2027-%202026.pdf) |
 | 28 | Closing the loop on your own recommendation | Checking weeks later whether an earlier recommendation (renegotiating a delivery aggregator mix) actually worked, measuring cost and revenue together. | [Day 28](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/Day%2021%20-%2030/Day%2028%20-%202026.pdf) |
-| 29 | Coming soon | - | - |
+| 29 | 	Your CV needs the decision, not the software | - | - |
 | 30 | Coming soon | - | - |

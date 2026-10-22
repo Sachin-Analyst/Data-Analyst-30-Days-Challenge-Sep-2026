@@ -60,7 +60,7 @@ Each day starts with one request landing on my desk at AtliQ Café, usually from
 - The exact request raised each day, and who asked it
 - The ambiguous word or number behind the request
 - The verdict and the one-line lesson it produced
-- All 30 days browsable through the [Challenges Index](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/tree/main/Challenges%20index)
+- All 30 days browsable through the [Challenges Index](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/Challenges%20-%20index.md)
 
 ---
 

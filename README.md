@@ -39,8 +39,8 @@ Each day starts with one request landing on my desk at AtliQ Café, usually from
 | [Day 1 - 10](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/tree/main/Day%201%20-%2010) | Challenge documents for Day 1 through Day 10 |
 | [Day 11 - 20](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/tree/main/Day%2011%20-%2020) | Challenge documents for Day 11 through Day 20 |
 | [Day 21 - 30](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/tree/main/Day%2021%20-%2030) | Challenge documents for Day 21 through Day 30 |
-| [Color scheme](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/tree/main/Color%20scheme) | Hex codes and font used across the challenge design |
-| [Challenges index](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/tree/main/Challenges%20index) | Day-by-day index: business topic, short description, and a direct link to each day's PDF |
+| [Color palettes](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/Color-palettes.md) | Hex codes and font used across the challenge design |
+| [Challenges index](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/Challenges%20-%20index.md) | Day-by-day index: business topic, short description, and a direct link to each day's PDF |
 
 ---
 

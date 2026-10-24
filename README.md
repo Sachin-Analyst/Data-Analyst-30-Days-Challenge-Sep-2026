@@ -66,6 +66,19 @@ Each day starts with one request landing on my desk at AtliQ Café, usually from
 
 ---
 
+
+
+## Recognition
+
+- Featured among the participants of the Codebasics "Your First 30 Days as a Data Analyst" DA Bootcamp (challenge ran Sep 22 - Oct 21, 2026)
+- Completed 30 of 30 days (100% attendance) with a 30-day streak, as shown on the final bootcamp leaderboard updated Oct 21, 2026
+
+![Codebasics bootcamp featured poster](Recognition/codebasics-bootcamp-featured-poster.png)
+
+![Codebasics bootcamp leaderboard, 30 of 30 days](Recognition/codebasics-bootcamp-leaderboard-30-of-30.png)
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/LICENSE) file for details.

@@ -73,9 +73,9 @@ Each day starts with one request landing on my desk at AtliQ Café, usually from
 - Featured among the participants of the Codebasics "Your First 30 Days as a Data Analyst" DA Bootcamp (challenge ran Sep 22 - Oct 21, 2026)
 - Completed 30 of 30 days (100% attendance) with a 30-day streak, as shown on the final bootcamp leaderboard updated Oct 21, 2026
 
-![Codebasics bootcamp featured poster](Recognition/codebasics-da-bootcamp-featured-poster.png)
+<img src="Recognition/codebasics-bootcamp-featured-poster.png" alt="Codebasics bootcamp featured poster" width="250">
 
-![Codebasics bootcamp leaderboard, 30 of 30 days](Recognition/codebasics-bootcamp-leaderboard-30-of-30.png)
+<img src="Recognition/codebasics-bootcamp-leaderboard-30-of-30.png" alt="Codebasics bootcamp leaderboard, 30 of 30 days" width="250">
 
 ---
 

@@ -89,3 +89,10 @@ Each day starts with one request landing on my desk at AtliQ Café, usually from
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/LICENSE) file for details.
+
+## Last Updated Last updated on October 24, 2026. 
+
+What changed in this update: 
+- Added a Recognition section with the Codebasics bootcamp featured poster and the final leaderboard (30 of 30 days, 30-day streak) 
+- Displayed both images side by side at a reduced size so the page stays compact
+- Added the Recognition folder to the Folder Structure table

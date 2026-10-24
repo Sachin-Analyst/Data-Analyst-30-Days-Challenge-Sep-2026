@@ -42,6 +42,7 @@ Each day starts with one request landing on my desk at AtliQ Café, usually from
 | [Color palettes](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/Color-palettes.md) | Hex codes and font used across the challenge design |
 | [Challenges index](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/blob/main/Challenges%20-%20index.md) | Day-by-day index: business topic, short description, and a direct link to each day's PDF |
 | [Recap video](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/tree/main/Recap-video) | A short recap video summarizing the 30-day challenge |
+| [Recognition](https://github.com/Sachin-Analyst/Data-Analyst-30-Days-Challenge-Sep-2026/tree/main/Recognition) | Codebasics bootcamp featured poster and final leaderboard screenshot (30 of 30 days) |
 
 ---
 
